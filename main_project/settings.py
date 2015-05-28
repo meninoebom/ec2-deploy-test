@@ -93,7 +93,7 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'eb_deploy_test',
+            'NAME': 'ec2_deploy_test',
         }
     }
 
