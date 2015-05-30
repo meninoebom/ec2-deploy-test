@@ -6,6 +6,9 @@
 *.pyc
 local_settings.py
 
+#Production
+gunicorn*
+
 #NPM and Bower
 # Have to commit bower_components for deploytment to production
 #bower_components/
